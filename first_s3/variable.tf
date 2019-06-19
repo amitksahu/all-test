@@ -10,9 +10,9 @@ variable "s3_bucket_name" {
 }
 
 variable "s3_region" {
-  type    = "list"
-  default = ["ca-central-1"]
+
 }
+
 
 locals {
   s3_tags = {
