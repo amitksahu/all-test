@@ -2,9 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7017ddfc-ad8c-4d71-9501-c0762491b26c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first_s3/terraform.tfstate" beforeDir="false" afterPath="$PROJECT_DIR$/first_s3/terraform.tfstate" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first_s3/terraform.tfstate.backup" beforeDir="false" afterPath="$PROJECT_DIR$/first_s3/terraform.tfstate.backup" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vpc/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vpc/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vpc/.idea/terraform.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vpc/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vpc/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vpc/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vpc/first_s3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vpc/first_s3/provider.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vpc/first_s3/s3.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vpc/first_s3/terraform.tfstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vpc/first_s3/terraform.tfstate.backup" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vpc/first_s3/terraform.tfvars" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vpc/first_s3/variable.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vpc" beforeDir="false" afterPath="$PROJECT_DIR$/vpc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vpc/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/vpc/.gitignore" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +33,7 @@
         <entry file="file://$PROJECT_DIR$/vpc/provider.tf">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -57,7 +69,7 @@
         <entry file="file://$PROJECT_DIR$/vpc/subnets.tf">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-49">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -66,7 +78,7 @@
         <entry file="file://$PROJECT_DIR$/vpc/route.tf">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="309">
-              <caret line="43" column="50" lean-forward="true" selection-start-line="43" selection-start-column="50" selection-end-line="43" selection-end-column="50" />
+              <caret line="43" column="50" selection-start-line="43" selection-start-column="50" selection-end-line="43" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -359,7 +371,7 @@
     <entry file="file://$PROJECT_DIR$/vpc/subnets.tf">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-49">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
@@ -380,7 +392,7 @@
     <entry file="file://$PROJECT_DIR$/vpc/provider.tf">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
@@ -394,7 +406,7 @@
     <entry file="file://$PROJECT_DIR$/vpc/route.tf">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="309">
-          <caret line="43" column="50" lean-forward="true" selection-start-line="43" selection-start-column="50" selection-end-line="43" selection-end-column="50" />
+          <caret line="43" column="50" selection-start-line="43" selection-start-column="50" selection-end-line="43" selection-end-column="50" />
         </state>
       </provider>
     </entry>
