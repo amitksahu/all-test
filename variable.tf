@@ -21,3 +21,11 @@ variable "bastion_instance_type" {
   type = "string"
 }
 
+variable "default_tags" {
+  description = "Default"
+  type = "map"
+  default = {
+    "Terraform" = "terraform"
+  }
+}
+
